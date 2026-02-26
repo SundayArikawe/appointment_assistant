@@ -8,8 +8,10 @@ __pycache__/
 venv/
 env/
 ENV/
-.env/
-.venv/
+
+# Environment files
+.env
+
 # Build and packaging
 build/
 dist/
